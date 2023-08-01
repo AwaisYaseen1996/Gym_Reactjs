@@ -616,3 +616,111 @@ nav .menu-btn,
     height: 400px;
   }
 }
+
+/* Responsive Queries */
+@media screen and (min-width: 280px) and (max-width: 652.98px) {
+  #main,
+  #offer,
+  #presentaion {
+    background-position: center;
+  }
+  .name,
+  .pr-heading {
+    width: 100%;
+  }
+  .pr-heading h1 {
+    font-size: 2rem;
+  }
+  .header-btns,
+  .menu,
+  .pr-btns {
+    margin: 0 auto;
+    justify-content: center;
+  }
+  .header-btn,
+  .pr-btn {
+    margin-left: unset;
+    margin-top: unset;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 575.98px) {
+  #main,
+  #offer,
+  #presentaion {
+    background-position: center;
+  }
+  .name,
+  .pr-heading {
+    width: 100%;
+  }
+  .pr-heading h1 {
+    font-size: 2rem;
+  }
+  .header-btns,
+  .menu,
+  .pr-btns {
+    margin: 0 auto;
+    justify-content: center;
+  }
+  .header-btn,
+  .pr-btn {
+    margin-left: unset;
+    margin-top: unset;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+  #main,
+  #offer,
+  #presentaion {
+    background-position: center;
+  }
+  .name,
+  .pr-heading {
+    width: 100%;
+  }
+  .pr-heading h1 {
+    font-size: 2rem;
+  }
+  .header-btns,
+  .menu,
+  .pr-btns {
+    margin: 0 auto;
+    justify-content: center;
+  }
+  .header-btn,
+  .pr-btn {
+    margin-left: unset;
+    margin-top: unset;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023.98px) {
+  #main,
+  #offer,
+  #presentaion {
+    background-position: center;
+  }
+  .name,
+  .pr-heading {
+    width: 100%;
+  }
+  .pr-heading h1 {
+    font-size: 2rem;
+  }
+  .header-btns,
+  .menu,
+  .pr-btns {
+    margin: 0 auto;
+    justify-content: center;
+  }
+  .header-btn,
+  .pr-btn {
+    margin-left: unset;
+    margin-top: unset;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+}
